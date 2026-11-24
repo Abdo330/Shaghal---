@@ -1,4 +1,4 @@
-const CACHE_NAME = "shaghal-shell-v1";
+const CACHE_NAME = "shaghal-shell-v2";
 const SHELL_FILES = [
   "./",
   "./index.html",
